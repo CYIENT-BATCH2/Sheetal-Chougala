@@ -1,0 +1,7 @@
+1)Take the input from user
+2)Enter the number
+3)IF the number is divisible by 2
+4)Reminder is equal to zero
+5)print the even numebr
+6)Reminder is equal to one
+7)print odd number 
