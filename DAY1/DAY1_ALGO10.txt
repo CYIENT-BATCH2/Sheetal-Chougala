@@ -1,0 +1,9 @@
+1)Take the input from user.
+2)Enter the three numbers n1,n2,n3.
+3)If number n1 is greater than n2 logical or with n2 is greater than n3 condition checking
+4)print the biggest number
+5)If n2 is greater than n3 logical or with n3 is graterthan n3 condition checking
+6)print the biggest number
+7)other wise it will be execute n3  
+ 
+  
