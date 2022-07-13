@@ -1,0 +1,6 @@
+1)Take the input from the user
+2)Taking number and position
+3)If the position is greater than zero then 
+4)print the binary form 
+5)number is right shifted bitwise & with one
+6)Decrement the position
