@@ -1,0 +1,3 @@
+1)Read the instruction
+2)values are initialized
+3)solve the expression 
