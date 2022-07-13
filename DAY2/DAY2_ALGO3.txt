@@ -1,0 +1,5 @@
+1)Take the input from user
+2)We have to find the hand shakes
+3)when they will meet each other taking hand shake
+4)Using formula we calulate=num*(num-1)
+5)we can easly find out handshakes
