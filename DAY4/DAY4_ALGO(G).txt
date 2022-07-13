@@ -1,0 +1,5 @@
+1)Take the input from user
+2)take third variable as temp
+3)and write the code
+4)without using temp variable we can write using xor  
+5)swap the numbers
