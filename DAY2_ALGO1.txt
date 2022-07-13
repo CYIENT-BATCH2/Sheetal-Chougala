@@ -1,0 +1,5 @@
+1)Take the input from user
+2)Taking goto statement ande write program
+3)If number is not equal to zero then it will be divided with zero 
+4)After dividing reminder will be addition with sum
+5)print the sum
