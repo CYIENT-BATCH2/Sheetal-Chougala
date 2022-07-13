@@ -1,0 +1,2 @@
+1)Take input from user
+2)find out the set bit,clear bit and compliment bit
