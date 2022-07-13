@@ -1,0 +1,3 @@
+1)Take the input from user
+2)condition checking using logical or operator
+3)If condition is true  it will print 1=A,2=B
