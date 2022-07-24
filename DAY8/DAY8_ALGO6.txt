@@ -1,0 +1,10 @@
+
+
+
+ ALGORITHM
+  1)Take the input from user
+  2)set the register ToCON value
+  3)TMRON and PSA bit are set without distrubing the other bit
+  4)Find out bits in ToCON register,the register value is 0xF3.
+
+  
