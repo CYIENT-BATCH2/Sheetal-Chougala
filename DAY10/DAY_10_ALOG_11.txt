@@ -1,0 +1,4 @@
+Declaration for variables for given problem.
+Take the input from user.
+In given problem take the 3 bytes of SteeringAngle.
+Find out the steering information by using left shift and's with 1

@@ -1,0 +1,4 @@
+Declaration for variables in given problem.
+Take the input from user.
+For given problem take 5byte engine information.
+Find out the unsiginedchar engine temperature and engine rmp by using left shift operator.
