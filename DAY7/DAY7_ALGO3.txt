@@ -1,0 +1,8 @@
+
+ALGORITHM
+ 1)Take the input from the user
+ 2)Two registers given
+ 3)one register in that  we have to make last 4 bit set as 0x07.
+ 4)Another register in that we have to make last 4 bit clear
+
+ 
