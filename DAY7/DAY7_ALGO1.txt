@@ -1,0 +1,4 @@
+ALGORITHM
+1)Take input 8 bit  any value.
+2)Initialize the temp variable and other variable.
+2)we have to convert little endian to big endian.
