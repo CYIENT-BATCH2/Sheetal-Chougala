@@ -1,0 +1,14 @@
+
+
+ALGORITHM
+
+1)Take the  input from user.
+2)we have to find the even bit and odd bit.
+3)after we have to swap even bits and odd bit.
+
+
+
+
+
+
+
